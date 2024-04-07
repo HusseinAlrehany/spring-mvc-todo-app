@@ -1,0 +1,1 @@
+<% response.sendRedirect("todolist/viewList"); %>
